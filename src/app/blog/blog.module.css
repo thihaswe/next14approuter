@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.parent {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  text-align: justify;
+}
+
+.title {
+  margin-bottom: 30px;
+}
