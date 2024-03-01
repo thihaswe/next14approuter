@@ -13,7 +13,10 @@ const AboutUs = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam illum
           maiores numquam harum exercitationem! Beatae hic molestias magni eius
           quos. Molestiae, velit nisi rerum officia iste perferendis assumenda?
-          Aliquam, magni.
+          Aliquam, magni. Lorem, ipsum dolor sit amet consectetur adipisicing
+          elit. Eligendi neque, quos ipsam nemo, dolorum explicabo quibusdam
+          dolor unde blanditiis culpa suscipit quasi ex quo magni nostrum alias
+          soluta itaque fugit.
         </p>
       </div>
       <div className={styles.imageContainer}>
